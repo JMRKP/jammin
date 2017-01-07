@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7296d88f939fa7536850664cf3c20e4dfcfff7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0cfc486b52aca34cc2cb0f7694139f1d456c4f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_21180c1b5795c9d7626c71ce582ba8ef550ecad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ab744408451b90e6a4e4f778f2ebb2b5d14f5b60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_911d4c1e9079dc51480f0977a9a4e4730e34a4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ed59577919b64404f6b6526c5ae952ebf5bc6472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_17d620f8e1a01b8f5ecfd111a396fb9f67ea4373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_ef87e0e3b74c8c45fd64a3046b73a192c43aac11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9d0457083fb8d4da5926d820d8dba36034b39dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_80b788f44554f4c2d420727deb94d0b84bed8e7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_0114ad6988a886f4e4facba281b4154af46830b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_9ca5fe919115b60542533cffa45b464638941b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_537bc53b29a5f1a8ff0d0248f2ecd85c8fc3f9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_83b3c9a8df181c1329948b3acb8d406b2f5b555a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_29604c32b440d7bdd0cad853c7e96327e3d40871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_f4b15d8310c6ca41a79d2c46287edd82920f0e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_77700126bb17875f19237579741cd3557701b478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_3705675197fbabe65a5fc7950908ddb92e02e7f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_84697b64956d92ee908fbb678fd14a38f9541de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_b51954038cd2aa3a0bc4dd7ace24bd947dc7ea56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_6a51ea22ffab139a5b7ef9749e4d603a7a04e85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_eb38ba32733e2eb01242431164030734b56bbdd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9863fdb4084e166b03d1b3e28f34bfdc6f444ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9d0ebff9870026c0d4e585346cdd47fcdc90af38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ab744408451b90e6a4e4f778f2ebb2b5d14f5b60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9c6de9dd3ac2af089e3a4a419ce2791a244ad378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5fc2d0975f4237814e3d69203c1e0e4e3f4b4dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_b9b7cad01f11b183aa61edce8329121758c9c662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_7af38c5b0ab9703596cd38db69c5cc95de79c983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_aa4ddbf92c53c65965c61124cf3a9c896c2f8052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_4bd7260c3fc388cd9829b53e195f4c626d7bce05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_97b268713d0544acb9d5b17cb94f30e4201c91d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_748c64d9fc57c006ab1bc947dae173143aa88978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_b00751da628d3521a03d0800bb3a776f8d5d51aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_848e65bbdc18993ecac09c5211afc7b99ca769b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_17d620f8e1a01b8f5ecfd111a396fb9f67ea4373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_35d197ea43eb922ddd380cf981f68d8c23e51161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f5418eeed478b948e5b2b7a77c783873d8ec537d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_505e5bb278ae389a73b55412bb13ff1ea48d6f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_5cd25c1dd810de44d018e81e579ea9ffc835c63e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6739e4d6e2e7dd442c9898cfde489de686ddbfaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9d0457083fb8d4da5926d820d8dba36034b39dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_29604c32b440d7bdd0cad853c7e96327e3d40871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_0114ad6988a886f4e4facba281b4154af46830b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8aee36aa699506a48d8e177f5a31488fdd88629e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_7af38c5b0ab9703596cd38db69c5cc95de79c983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_48458e637890642b31f712ba3f9fb5f4652498c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5fc2d0975f4237814e3d69203c1e0e4e3f4b4dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_f4b15d8310c6ca41a79d2c46287edd82920f0e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9863fdb4084e166b03d1b3e28f34bfdc6f444ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_84697b64956d92ee908fbb678fd14a38f9541de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9c6de9dd3ac2af089e3a4a419ce2791a244ad378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f5418eeed478b948e5b2b7a77c783873d8ec537d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/home/charles/CODE/MobileApplicationPraktikum/Bluetooth/pma-ws16-session/android/app/Bluetooth/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_d540738d00ccf4668f7bb2b604e4350f5c7f0ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_aa4ddbf92c53c65965c61124cf3a9c896c2f8052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_848e65bbdc18993ecac09c5211afc7b99ca769b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/charles/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_4bd7260c3fc388cd9829b53e195f4c626d7bce05.jar" />
+    </item>
+
+</items>
