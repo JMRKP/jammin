@@ -1,0 +1,38 @@
+INFORMATION FOR THE INTERVIEWER
+
+
+
+PURPOSE OF JAMMIN
+
+Jammin is an app developed for Android. It supports musicians while playing on live sessions on stage. It is a very common problem to quickly agree between various musicians on the (jazz) standards or songs to be played, due to the fact, that it is hard to figure out the intersection of each musician's individual repertoire spontaneously. It usually ends up with playing the 10 most well known standards over and over, which get's more and more boring from evening to evening.
+
+Jammin allows every musician to record and maintain his or her individual song repertoire. On stage the app connects all the musicians devices to each other and provides every musician with an overview of the songs known by everyone currently participating.
+
+We had to think of a way to uniform the data, so that the same song has the same appearance on every device. Therefore every time a user adds a song to the personal repertoire, information on song and artist is fetched from the iTunes online API.
+
+A lot of session take place where there is no internet connection. So the application uses bluetooth to connect devices in a star topology with client - server architecture.
+
+
+
+ABOUT THE PROJECT
+
+The app was written this semester (winter semester 16/17) by Oliver Speck and Julius Plener in the context of a high school seminar called 'Mobile Application Praktikum' at HdM Stuttgart. Another version for iOS devices is currently in progress.
+
+
+
+ABOUT THE CODE
+
+It is written with Android Studio and can simply be imported as a project. 
+
+While my teammate was in charge of realizing the API request feature, I focused on the bluetooth connection handling and data exchange. So the code I mainly worked on belongs to the following classes:
+
+ConnectThread
+AcceptThread
+ConnectionThread
+ConnectionManagerThread
+ToastHandler
+JoinSessionActivity
+SessionRepertoireActivity
+CustomAdapter
+ConnectedDevicesAdapter
+Repertoire
