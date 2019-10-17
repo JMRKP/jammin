@@ -1,7 +1,7 @@
 # jammin
-Whether on stage or at the fire place: When people come together to play music, the often end up playing the same few songs, because it's so hard to agree on songs/pieces everyone knows.
+Whether on stage or at the fire place: When people come together to play music, they often end up playing the same few songs, because it's so hard to agree on songs/pieces everyone knows.
 
-That's where _jammin_ commes into play. It is an app build for _Android_ allowing you to keep track of your musical repertoire and determine commonly known songs/pieces when having a jam session by connecting participant's phones via bluetooth.
+That's where _jammin_ commes into play. It is an app build for _Android_ allowing you to keep track of your musical repertoire. When having a jamsession, participants can connect their phones and the app lists all the commonly known songs/pieces by determing the intersection of all participant's repertoires.
 
 ## approach
 We had to think of a way to uniform the data, so that the same song has the same appearance on every device. Therefore, every time a user adds a song to the personal repertoire, information on song and artist is fetched from the [iTunes online API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api).
